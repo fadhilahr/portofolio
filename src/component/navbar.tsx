@@ -15,7 +15,6 @@ export const Navbar1 =() => {
         <Navbar.Link href="#Home" active>
           Home
         </Navbar.Link>
-        <Navbar.Link href="#About">About Me</Navbar.Link>
         <Navbar.Link href="#Contact">Project</Navbar.Link>
       </Navbar.Collapse>
     </Navbar>
